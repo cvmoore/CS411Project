@@ -1,4 +1,8 @@
-
+Idea 1) Our first idea is to create a website like Yelp where activites will be recommended to a user based on their interests. The difference between
+this and Yelp is that users will just input keywords for all of their interests, and the website will come up with the places itself. For APIs, we 
+will use the Google Place API and the Facebook Marketing API to get people's interests and suggest places to them. When user's log in with Facebook,
+there will be some keywords automatically recommended based on the Facebook Marketing API that will look at a user's profile, and then user's can
+manually input more keywords and remove any that they don't want afterword in order to refine their searches. 
 
 
 Idea 2) Our second idea is a spinoff of the BU Sustainability app that would make the app more fun in order to get more people to use the app. 
