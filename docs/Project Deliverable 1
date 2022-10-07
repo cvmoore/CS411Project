@@ -1,0 +1,11 @@
+
+
+
+Idea 2) Our second idea is a spinoff of the BU Sustainability app that would make the app more fun in order to get more people to use the app. 
+We would add in competitions with friends / coworkers / etc. that would resemble a board game, in which each time that you do a certain sustainable
+activity, you will move forward more spaces. The number of spaces you move forward will be determined by how much energy, water, CO2, etc. that you
+saved by doing the activity. This will be a more effective way of getting people to use the app because gamification is proved to increase engagement 
+and interest. We could use a database by storing people's login information, we could use environmental APIs such as the Brighter Planet API to track
+people's carbon footprint for tasks such as driving a car vs walking, shutting off lights, etc. For third party authentication, we could use Duo
+to make sure that it is only BU students and faculty that are using the app. Finally, there will be decoupled architecture because the frontend will
+be the application itself, and the backend will be all of the calculations for the game. 
