@@ -1,3 +1,5 @@
+Teammates: Wariboko,Favor; Misra,Arnav,Nath; Vande Moore,Carter,E; David,Matteo,Gilbert, Israel
+
 Idea 1) Our first idea is to create a website like Yelp where activites will be recommended to a user based on their interests. The difference between
 this and Yelp is that users will just input keywords for all of their interests, and the website will come up with the places itself. For APIs, we 
 will use the Google Place API and the Facebook Marketing API to get people's interests and suggest places to them. When user's log in with Facebook,
