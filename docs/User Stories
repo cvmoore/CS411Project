@@ -1,10 +1,10 @@
 User Stories:
 1. A user has found themselves with free time this weekend and can't think of what to do. They go to our website to get some ideas. Upon putting in
-the URL, they first have to log in with Facebook. If they don't have a facebook, they will be able to manually log in with an account that they created 
-with us. Once they get into the app, if it is their first time, then they will have a suggested set of keywords to choose from before they see the main 
-page of our site. They can also manually input some keywords to get started. Once they have chosen enough keywords, they will see the main page.
-On this page, the user will be able to set a radius and will see a list of recommendations that combine the most keywords possible (therefore being
-the best suggestions). The user will go to a recommended place and then come back and can put a thumbs up or a thumbs down to better future recommendations.
+the URL, they first have to log in with Facebook. Once they get into the app, it is their first time, so they will have a suggested set 
+of keywords to choose from before they see the main page of our site. They can also manually input some keywords to get started. Once they have 
+chosen enough keywords, they will see the main page. On this page, the user will be able to set a radius and will see a list of recommendations 
+that combine the most keywords possible (therefore being the best suggestions) and is within their given radius. The user will go to a recommended
+place and then come back and can put a thumbs up or a thumbs down to better future recommendations.
 
 2.
 
