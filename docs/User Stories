@@ -6,7 +6,12 @@ chosen enough keywords, they will see the main page. On this page, the user will
 that combine the most keywords possible (therefore being the best suggestions) and is within their given radius. The user will go to a recommended
 place and then come back and can put a thumbs up or a thumbs down to better future recommendations.
 
-2.
+2. A user has found themselves with free time this weekend and can't think of what to do. They go to our website to get some ideas. Upon putting in
+the URL, they first have to create an account to login because they don't have Facebook. Once they get into the app, it is their first time, so they 
+have to manually input some keywords to get started. When they start typing a word, suggestions will come up for common keywords that people use. 
+Once they have chosen enough keywords, they will see the main page. On this page, the user will be able to set a radius and will see a list of 
+recommendations that combine the most keywords possible (therefore being the best suggestions) and is within their given radius. 
+The user will go to a recommended place and then come back and can put a thumbs up or a thumbs down to better future recommendations.
 
 3.
 
