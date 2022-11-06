@@ -2,14 +2,14 @@ import React from 'react';
 import './App.css';
 
 function App() {
-  return (
+  return(
     <div className="wrapper">
-      <h1>Input a keyword</h1>
+      <h1>Input Search Keyword</h1>
       <form>
       <fieldset>
          <label>
-           <p>Name</p>
-           <input name="name" />
+           <p>Keyword</p>
+           <input keyword="keyword" />
          </label>
        </fieldset>
        <button type="submit">Submit</button>
