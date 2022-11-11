@@ -18,3 +18,7 @@ response = requests.get(url = ENDPOINT,
                         headers = HEADERS
                         )
 business_data = response.json()
+
+f = open('.\\apis\\yelp_results,txt', 'w')
+f.write(json.dumps(business_data, indent = 3))
+f.close 
