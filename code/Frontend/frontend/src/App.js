@@ -9,7 +9,7 @@ function App() {
   let handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      let res = await fetch("https://httpbin.org/post", {
+      let res = await fetch("https://87erszuvx0.execute-api.us-east-1.amazonaws.com/default/backendHandler", {
         method: "POST",
         body: JSON.stringify({
           keyword: keyword,
